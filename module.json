@@ -8,5 +8,10 @@
   "compatibleCoreVersion": "0.6.4",
   "esmodules": [
     "./no-arrow-keys.js"
-  ]
+  ],
+  "url": "https://github.com/VanceCole/no-arrow-keys",
+  "manifest": "https://raw.githubusercontent.com/VanceCole/no-arrow-keys/master/module.json",
+  "download": "https://github.com/VanceCole/no-arrow-keys/releases/download/0.0.1/no-arrow-keys.zip",
+  "readme": "https://github.com/VanceCole/no-arrow-keys/blob/master/README.md",
+  "changelog": "https://github.com/VanceCole/no-arrow-keys/blob/master/changelog.md"
 }
