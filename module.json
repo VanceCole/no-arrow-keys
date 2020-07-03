@@ -1,0 +1,12 @@
+{
+  "name": "no-arrow-keys",
+  "title": "No Arrow Keys",
+  "description": "Disables arrow keys.",
+  "author": "Vance Cole",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.4",
+  "esmodules": [
+    "./no-arrow-keys.js"
+  ]
+}
